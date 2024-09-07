@@ -29,14 +29,15 @@ Always open to cool new projects, collaborations, or just connecting. Feel free 
 ![](https://img.shields.io/static/v1?label&logo=pytorch&message=PyTorch&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=apache-spark&message=PySpark&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=tensorflow&message=Tensorflow&style=for-the-badge&color=black)
+
 ![](https://img.shields.io/static/v1?label&logo=langchain&message=Langchain&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=huggingface&message=HuggingFace&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=mlflow&message=MLFlow&style=for-the-badge&color=black)
+
 ![](https://img.shields.io/static/v1?label&logo=kedro&message=Kedro&style=for-the-badge&color=black)
-
-
 ![](https://img.shields.io/static/v1?label&logo=apache-cassandra&message=Cassandra&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=mongodb&message=Mongodb&style=for-the-badge&color=black)
+
 ![](https://img.shields.io/static/v1?label&logo=postgresql&message=PostgreSQL&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=firebase&message=Firebase&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=elastic&message=Elasticsearch&style=for-the-badge&color=black)
@@ -44,8 +45,8 @@ Always open to cool new projects, collaborations, or just connecting. Feel free 
 ![](https://img.shields.io/static/v1?label&logo=amazon-web-services&message=AWS&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=google-cloud&message=GCP&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=databricks&message=Databricks&style=for-the-badge&color=black)
-
 ![](https://img.shields.io/static/v1?label&logo=docker&message=docker&style=for-the-badge&color=black)
+
 ![](https://img.shields.io/static/v1?label&logo=kubernetes&message=Kubernetes&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=terraform&message=Terraform&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=github-actions&message=Github-Actions&style=for-the-badge&color=black)
