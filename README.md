@@ -13,7 +13,7 @@ Always open to cool new projects, collaborations, or just connecting. Feel free 
 ![](https://img.shields.io/static/v1?label&message=Spanish&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&message=Galician&style=for-the-badge&color=black)
 
-### My area of expertise is:
+### My areas of expertise are:
 
 ![](https://img.shields.io/static/v1?label&message=AI&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&message=ML&style=for-the-badge&color=black)
