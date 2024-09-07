@@ -29,6 +29,8 @@ Always open to cool new projects, collaborations, or just connecting. Feel free 
 ![](https://img.shields.io/static/v1?label&logo=pytorch&message=PyTorch&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=apache-spark&message=PySpark&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=tensorflow&message=Tensorflow&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&logo=langchain&message=Langchain&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&logo=huggingface&message=HuggingFace&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=mlflow&message=MLFlow&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=kedro&message=Kedro&style=for-the-badge&color=black)
 
