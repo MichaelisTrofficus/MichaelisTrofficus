@@ -54,7 +54,9 @@ Always open to cool new projects, collaborations, or just connecting. Feel free 
 
 ### My Socials:
 
-[![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/in/moteropedrido/)
-[![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)](https://x.com/MTrofficus)
+[![](https://img.shields.io/static/v1?label&logo=linkedin&message=substack&style=for-the-badge&color=black)](https://theneuralmaze.substack.com/)
+[![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/in/migueloteropedrido/)
+[![](https://img.shields.io/static/v1?label&logo=youtube&message=substack&style=for-the-badge&color=black)](https://www.youtube.com/@TheNeuralMaze)
+[![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)](https://x.com/moteropedrido)
 [![](https://img.shields.io/static/v1?label&logo=medium&message=Medium&style=for-the-badge&color=black)](https://medium.com/@migueloteropedrido)
 
