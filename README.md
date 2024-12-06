@@ -61,3 +61,19 @@ Always open to cool new projects, collaborations, or just connecting. Feel free 
 [![](https://img.shields.io/static/v1?label&logo=youtube&message=Youtube&style=for-the-badge&color=black)](https://www.youtube.com/@TheNeuralMaze)
 [![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)](https://x.com/moteropedrido)
 [![](https://img.shields.io/static/v1?label&logo=medium&message=Medium&style=for-the-badge&color=black)](https://medium.com/@migueloteropedrido)
+
+## Join The Neural Maze
+
+[The Neural Maze](https://theneuralmaze.substack.com/) is a hub for ML projects, explained step-by-step with code, articles and video tutorials.
+
+If you like this type of content, you are going to love these resources:
+
+🏢 [GitHub Organization](https://github.com/neural-maze): Clone the repositories, run the code and learn by doing!
+
+📺 [YouTube Channel](https://www.youtube.com/@TheNeuralMaze): Watch tutorials, deep dives and project showcases. 
+
+📧 [Newsletter](https://theneuralmaze.substack.com/): Get the latest articles and project updates straight to your inbox.
+
+<p align="center">
+  <img src="./img/intro_video.gif" alt="intro video">
+</p>
