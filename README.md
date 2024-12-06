@@ -1,5 +1,7 @@
 ## ¡Hola! 🙋🏻‍♂️
 
+![alt text](./img/banner.jpg)
+
 Hey there, I’m Miguel! I’m a **Physicist** and a **Machine Learning Engineer**, focused on building ML systems that actually work in real-world production environments. 
 I’m all about turning complex ideas into practical solutions that make a difference.
 
@@ -59,4 +61,3 @@ Always open to cool new projects, collaborations, or just connecting. Feel free 
 [![](https://img.shields.io/static/v1?label&logo=youtube&message=Youtube&style=for-the-badge&color=black)](https://www.youtube.com/@TheNeuralMaze)
 [![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)](https://x.com/moteropedrido)
 [![](https://img.shields.io/static/v1?label&logo=medium&message=Medium&style=for-the-badge&color=black)](https://medium.com/@migueloteropedrido)
-
